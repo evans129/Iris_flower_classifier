@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 streamlit = "*"
 sklearn = "*"
+absl-py = "==1.0.0"
 
 [dev-packages]
 
