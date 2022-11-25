@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 from PIL import Image
-import sklearn
 #Loading Our final trained Knn model 
 model= "trained_model_classifier.sav"
 knn_clf=pickle.load(open(model,"rb"))
