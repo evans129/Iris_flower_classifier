@@ -372,3 +372,4 @@ yarl @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_e5nlunspj6/croots/recipe
 zict==2.1.0
 zipp @ file:///C:/ci/zipp_1652273994994/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
+scikit-learn
