@@ -1,5 +1,6 @@
 streamlit>=1.40,<2
 # The bundled model is a pickle, which scikit-learn only guarantees to load in the version that saved it.
-scikit-learn~=1.9.1
+# 1.7.2 has wheels for Python 3.10 through 3.14.
+scikit-learn==1.7.2
 pandas>=2,<4
 Pillow>=10,<14
